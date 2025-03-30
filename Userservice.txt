@@ -3,3 +3,5 @@ Username = GunabhiramB
 Password = XYZAA
 
 process the data
+
+create an avatar for user
